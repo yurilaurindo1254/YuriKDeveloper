@@ -1,13 +1,14 @@
 # Olá! Eu sou o Yuri futuro Developer Back-End
 - durante meu curso irei postar todos os projetos que realizarei durante a minha faculdade.
-- minha carreia de developer 
 - 🧮Sou estudante de ADS na UNIPAR-PR iniciando em fevereiro 2022
 - ✉️Contate-me no email: yuri.l@edu.unipar.br
 - 🧑Pronome: ele/dele
+
+  <div>
   <a href="https://github.com/YuriKDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriKDeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriKDeveloper&layout=compact&langs_count=7&theme=dark"/>
-  
+
 </div>
   
   <div style="display: inline_block"><br>
