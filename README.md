@@ -1,4 +1,4 @@
-# Olá! Eu sou o Yuri futuro Developer Full-Stack
+# Olá! Bem vindos ao meu repositório.
 - durante meu curso irei postar todos os projetos que realizarei durante a minha faculdade.
 - 🧮Sou estudante de ADS na UNIPAR-PR iniciando em fevereiro 2022
 - ✉️Contate-me no email: yuri.l@edu.unipar.br
